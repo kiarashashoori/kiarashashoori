@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kiarashashoori
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning C#
+
 
 <!---
 kiarashashoori/kiarashashoori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
